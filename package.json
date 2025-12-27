@@ -1,0 +1,9 @@
+{
+  "name": "apexfit-homepage",
+  "version": "1.0.0",
+  "description": "ApexFit Premium E-commerce Homepage with Gymshark-inspired design",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "devDependencies": {}
+}
